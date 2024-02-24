@@ -1,7 +1,7 @@
 # Update-GoLang
 
 
-# update-golang
+
 update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion.
 
 Table of Contents
