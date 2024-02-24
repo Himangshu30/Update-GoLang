@@ -15,7 +15,7 @@ Table of Contents
   * [Customization](#customization)
   * [Per\-user Install](#per-user-install)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
+
 
 How it works
 ============
